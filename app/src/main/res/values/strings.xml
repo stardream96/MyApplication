@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">study use</string>
+    <string name="edit_hint">请输入信息</string>
+    <string name="send">发送</string>
+</resources>
